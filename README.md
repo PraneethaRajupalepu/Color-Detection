@@ -1,2 +1,2 @@
-# Color-Detection-
+# Color-Detection
 Dev Stack Internship Project 2
